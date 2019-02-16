@@ -1,0 +1,3 @@
+interface ITransitionDictionary<TSTate, TEvent>{
+    
+}

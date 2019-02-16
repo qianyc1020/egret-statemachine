@@ -1,0 +1,1 @@
+{"version":3,"file":"EventInformation.js","sourceRoot":"","sources":["../../src/statemachine/EventInformation.ts"],"names":[],"mappings":";;;AAAA;;;;;GAKG;AACH;IACI,0BAAY,OAAe,EAAE,aAAqB;QAC9C,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;IACvC,CAAC;IAIL,uBAAC;AAAD,CAAC,AARD,IAQC;AARK,UAAA,gBAAgB,+BAQrB,CAAA"}
